@@ -1,4 +1,5 @@
 # Insurance Customer Analytics Dashboard
+[Open the live dashboard](https://vrundasuresh04-insurance-customer-analytics-app-bfhst7.streamlit.app)
 
 An interactive Streamlit dashboard built with the CoIL 2000 insurance benchmark training data.
 
